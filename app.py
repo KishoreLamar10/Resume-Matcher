@@ -27,7 +27,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🧠 AI Job-Resume Matcher")
+st.title("🧠 Job-Resume Matcher")
 st.markdown("Match your resume to any job description and receive personalized AI-powered suggestions.")
 
 # Sidebar for inputs
