@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VSCode or IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
